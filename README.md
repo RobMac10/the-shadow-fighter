@@ -1,6 +1,6 @@
 # The Shadow Fighter: Mary Millar, an Earl Grey Girl
 
-Electronic edition of the children’s story by Robin McKean, for ages 10+.
+Electronic edition of the children’s story by Robin McKean.
 
 Read it here: https://robmac10.github.io/the-shadow-fighter/
 
